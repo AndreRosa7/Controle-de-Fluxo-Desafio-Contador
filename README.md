@@ -1,4 +1,4 @@
-Projeto Elaborado para atender a solicitação Desafio Controle de Fluxo - Desafio do Curso Java Básio DIO
+Projeto Elaborado para atender a solicitação Desafio Controle de Fluxo - Desafio do Curso Java Básico DIO
 
 Seguindo as seguintes recomendações do Expert Gleyson Sampaio:
 
